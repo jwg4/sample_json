@@ -1,3 +1,4 @@
 VALID_SAMPLES = [
-  '{"a": "b"}'
+  '{"a": "b"}',
+  '"NaN"'
 ]
